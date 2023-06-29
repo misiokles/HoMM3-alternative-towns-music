@@ -1,0 +1,16 @@
+{
+	"name" : "HoMM3 Alternative Towns Music",
+	"description" : "Nine new towns clips with some H2 climax",
+	"version" : "1.0",
+	"author" : "Maciej Wroblewski (aka Hobbit)",
+	"contact" : "http://www.acidcave.net/newsitem1723.html",
+	"modType" : "Music",
+	"compatibility" :
+	{
+		"min" : "1.0"
+	},
+	"changelog" :
+    {
+		"1.0"   : [ "Initial release" ]
+    }
+}
